@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="sutikeroAuth1">ph.STICKnoLOGIC.aerial.sutikero.provider.stickercontentprovider</string>
+<string name="sutikeroAuth2">ph.STICKnoLOGIC.aerial.sutikero.provider.thirdparty</string>
+</resources>

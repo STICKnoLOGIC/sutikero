@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/addS"
+        android:orderInCategory="100"
+        android:title="Add Sticker"
+        android:icon="@drawable/plus"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/addWA"
+        android:orderInCategory="100"
+        android:title="Add to WhatsApp"
+        android:icon="@drawable/WA"
+        app:showAsAction="always" />
+</menu>

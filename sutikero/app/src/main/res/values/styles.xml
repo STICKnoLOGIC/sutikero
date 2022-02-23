@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorAccent">@color/colorAccent</item>
+		<item name="colorControlHighlight">@color/colorControlHighlight</item>
+		<item name="colorControlNormal">@color/colorControlNormal</item>
+			<item name="android:windowBackground">@drawable/bootsplash</item>
+	</style>
+
+<style name="yhal_pm" parent="Widget.AppCompat.PopupMenu">
+<item name="android:textColor">#ffffff</item>
+    <item name="android:popupBackground">@drawable/bg</item>
+	<item name="android:itemBackground">#565656</item>
+</style>
+
+
+	<style name="DarkDialog" parent="AppTheme">
+		<!-- Used for the buttons -->
+		<item name="colorAccent">#ffc107</item>
+		<!-- Used for the title and text -->
+		<item name="android:textColorPrimary">#FFFFFF</item>
+		<!-- Used for the background -->
+		<item name="android:background">#444444</item>
+		<!-- button color-->
+		<item name="colorPrimary">#ffc107</item>
+	</style>
+	
+	<style name="SheetDialog" parent="Theme.Design.Light.BottomSheetDialog">
+    <!--<item name="android:windowCloseOnTouchOutside">false</item>-->
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:colorBackground">     @android:color/transparent</item>
+    <item name="android:backgroundDimEnabled">true</item>
+    <item name="android:backgroundDimAmount">0.3</item>
+    <item name="android:windowFrame">@null</item>
+    <item name="android:windowIsFloating">true</item>
+</style>
+
+<style name="Progress" parent="Theme.AppCompat.Light.Dialog.Alert">
+<item name="android:textColorPrimary">#FFF</item>
+<item name="androidTextColor">#FFF</item>
+<item name="colorAccent">@color/colorAccent</item>
+<item name="android:background">#565656</item>
+</style>
+</resources>
