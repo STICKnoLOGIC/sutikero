@@ -6,9 +6,11 @@ Yet another WhatsApp Sticker App for Android that is based on [WhatsApp/Sticker]
 This App(Sutikero) is not Affiliate of WhatsApp or its company
 
 **What is Sutikero?**
+
 [*] Sutikero is an app that is dedicated to add Stickers/Sticker Pack to WhatsApp or Convert image from either file or internet url to Stickers to be added in Sticker Pack.
 
 **Why Sutikero?**
+
 [x] Sutikero is a ui and user friendly
 
 [x] Sticker Pack and Sticker are easy to manage
@@ -27,6 +29,7 @@ This App(Sutikero) is not Affiliate of WhatsApp or its company
 
 
 **Why not Sutikero?**
+
 [?] minimum of Android 6 (Marshmallow) for operating system
 
 [?] not for Iphone/Apple/Mac
@@ -43,6 +46,7 @@ This App(Sutikero) is not Affiliate of WhatsApp or its company
 
 
 **Third Party Library used:**
+
 [x] [Facebook Fresco](https://github.com/facebook/fresco)
 
 [x] [FFmpeg toolkit-Android](https://github.com/tanersener/ffmpeg-kit/tree/main/android)
@@ -55,6 +59,7 @@ This App(Sutikero) is not Affiliate of WhatsApp or its company
 
 
 **TODO:**
+
 [] Add backup/import feature
 
 [] optimize the code for fast source loading
@@ -63,6 +68,7 @@ This App(Sutikero) is not Affiliate of WhatsApp or its company
 
 
 **Love my work?**
+
 [] you can buy me a [Coffee](https://www.buymeacoffee.com/STICKnoLOGIC) or [sweets](https://www.paypal.com/paypalme/yhalSTICKnoLOGIC)
 
 [] no money? you can send me a (love) [Letter](jobeth.llame@gmail.com) (just kidding)
@@ -71,6 +77,7 @@ This App(Sutikero) is not Affiliate of WhatsApp or its company
 
 
 **Hate my work?**
+
 [] you may open an issue in gitthub repo
 
 [] please avoid hate speech only constructive criticism
