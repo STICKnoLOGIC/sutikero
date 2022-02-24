@@ -1,4 +1,5 @@
 # Sutikero
+
 Yet another WhatsApp Sticker App for Android that is based on [WhatsApp/Sticker](https://github.com/WhatsApp/stickers) gitthub repo.
 
 **TL:DR**
