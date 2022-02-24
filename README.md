@@ -71,14 +71,16 @@ This App(Sutikero) is not Affiliate of WhatsApp or its company
 
 [] you can buy me a [Coffee](https://www.buymeacoffee.com/STICKnoLOGIC) or [sweets](https://www.paypal.com/paypalme/yhalSTICKnoLOGIC)
 
-[] no money? you can send me a (love) [Letter]([Dr. Ken Lunde](mailto:jobeth.llame@gmail.com?subject=Sutikero_Appreciation) (just kidding)
+[] no money? you can send me a (love) [Letter](mailto:jobeth.llame@gmail.com?subject=Sutikero_Appreciation) (just kidding)
 
 [] you are free to fork this repo
+
+[] you are free to [PullRequest](https://github.com/STICKnoLOGIC/sutikero/pulls)
 
 
 **Hate my work?**
 
-[] you may open an issue in gitthub repo
+[] you may [open an issue](https://github.com/STICKnoLOGIC/sutikero/issues) in github repo
 
 [] please avoid hate speech only constructive criticism
 
