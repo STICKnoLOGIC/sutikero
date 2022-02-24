@@ -1,6 +1,6 @@
 # Sutikero
 
-Yet another WhatsApp Sticker App for Android that is based on [WhatsApp/Sticker](https://github.com/WhatsApp/stickers) gitthub repo.
+Yet another WhatsApp Sticker App for Android that is based on [WhatsApp/Sticker](https://github.com/WhatsApp/stickers) github repo. and created using [SketchWare Pro](https://github.com/Sketchware-Pro/Sketchware-Pro)
 
 **TL:DR**
 This App(Sutikero) is not Affiliate of WhatsApp or its company
