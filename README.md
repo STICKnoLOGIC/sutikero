@@ -1,5 +1,7 @@
 # Sutikero
 [![Android CI](https://github.com/STICKnoLOGIC/sutikero/actions/workflows/android.yml/badge.svg)](https://github.com/STICKnoLOGIC/sutikero/actions/workflows/android.yml)
+
+
 Yet another WhatsApp Sticker App for Android that is based on [WhatsApp/Sticker](https://github.com/WhatsApp/stickers) github repo. and created using [SketchWare Pro](https://github.com/Sketchware-Pro/Sketchware-Pro)
 
 
