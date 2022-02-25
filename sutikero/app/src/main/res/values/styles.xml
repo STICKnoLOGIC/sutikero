@@ -40,7 +40,7 @@
 
 <style name="Progress" parent="Theme.AppCompat.Light.Dialog.Alert">
 <item name="android:textColorPrimary">#FFF</item>
-<item name="androidTextColor">#FFF</item>
+<item name="android:textColor">#FFF</item>
 <item name="colorAccent">@color/colorAccent</item>
 <item name="android:background">#565656</item>
 </style>
